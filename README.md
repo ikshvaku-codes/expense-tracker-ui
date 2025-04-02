@@ -1,6 +1,4 @@
-Sure! Below is a complete README file for your Expense Tracker application, formatted as a single file. You can copy and paste this into a `README.md` file in your project directory.
 
-```markdown
 # Expense Tracker
 
 A simple and intuitive Expense Tracker application built with React and Tailwind CSS. This application allows users to manage their expenses by adding, viewing, and deleting both one-time and recurring expenses. The app features a floating form for easy expense entry and visualizations for better financial insights.
