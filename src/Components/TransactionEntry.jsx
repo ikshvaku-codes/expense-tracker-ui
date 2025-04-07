@@ -20,7 +20,7 @@ const TransactionEntry = ({onAdd, message}) => {
 
         const newExpense = { 
             id: Date.now(), 
-            date: Date,
+            date: date,
             description, 
             amount: parseFloat(amount), 
             category, 
